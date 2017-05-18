@@ -2,4 +2,4 @@
 Let's do it
 
 
-try:  https://hackerMG.github.io.gift
+try:  https://hackermg.github.io/gift/
